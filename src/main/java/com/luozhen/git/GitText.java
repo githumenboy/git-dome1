@@ -7,5 +7,6 @@ public class GitText {
         System.out.println("hello gt");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
