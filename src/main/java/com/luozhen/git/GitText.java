@@ -8,5 +8,6 @@ public class GitText {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("hot-fix");
+        int a = 1；
     }
 }
